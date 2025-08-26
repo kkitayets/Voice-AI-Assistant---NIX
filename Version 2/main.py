@@ -25,7 +25,7 @@ from vision_processor import VisionProcessor
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # OpenRouter API Configuration
-OPENROUTER_API_KEY = "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"  # Замените на ваш ключ
+OPENROUTER_API_KEY = "put_your_api_key_here"  # Замените на ваш ключ
 OPENROUTER_BASE_URL = "https://openrouter.ai/api/v1"
 
 # Global variables

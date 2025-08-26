@@ -1,0 +1,6 @@
+os-sys
+SpeechRecognition
+multiprocessing
+mediapipe
+opencv-python
+google-generative-ai

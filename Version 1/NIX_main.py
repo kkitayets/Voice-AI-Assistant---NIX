@@ -12,7 +12,7 @@ import logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # AI Configuration
-API_KEY = "AIzaSyAF_5jHjRLxgX1c4uiNVfw6Wj-zweNJzlU"
+API_KEY = "Put_your_api_key_here"
 genai.configure(api_key=API_KEY)
 
 generation_config = {

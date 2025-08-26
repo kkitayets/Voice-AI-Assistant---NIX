@@ -1,0 +1,10 @@
+opencv-python
+numpy
+SpeechRecognition
+requests
+ultralytics
+PyQt5
+torch
+torchvision
+Pillow
+pyaudio
